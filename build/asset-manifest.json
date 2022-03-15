@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46de69f1.css",
+    "main.js": "/static/js/main.7f9e12d1.js",
+    "static/js/787.b4644d7f.chunk.js": "/static/js/787.b4644d7f.chunk.js",
+    "static/media/bgrick.png": "/static/media/bgrick.5d8c646d31a9635151a0.png",
+    "static/media/Rick-And-Morty-Logo.png": "/static/media/Rick-And-Morty-Logo.9572ed0d08bc66bd39c5.png",
+    "static/media/background.jpg": "/static/media/background.bfb1947aad6036dc4720.jpg",
+    "static/media/episode.png": "/static/media/episode.b90729ae85ee458debab.png",
+    "index.html": "/index.html",
+    "main.46de69f1.css.map": "/static/css/main.46de69f1.css.map",
+    "main.7f9e12d1.js.map": "/static/js/main.7f9e12d1.js.map",
+    "787.b4644d7f.chunk.js.map": "/static/js/787.b4644d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46de69f1.css",
+    "static/js/main.7f9e12d1.js"
+  ]
+}
